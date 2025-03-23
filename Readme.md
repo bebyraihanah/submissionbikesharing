@@ -26,6 +26,10 @@ Dashboard ini dibuat menggunakan Streamlit dan menampilkan berbagai visualisasi 
 
 │-- requirements.txt      # Daftar library yang dibutuhkan
 
+│-- url.txt      #Daftar URL yang digunakan dalam
+
+│-- Notebook.ipynb      # Daftar scipt python untuk analisis data
+
 ### 🛠 Instalasi dan Menjalankan Dashboard
 
 1️⃣ Clone Repository
