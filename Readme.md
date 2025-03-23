@@ -22,7 +22,7 @@ Dashboard ini dibuat menggunakan Streamlit dan menampilkan berbagai visualisasi 
 
 │   │-- Readme.txt      # Dokumentasi Dataset Bike Sharing
 
-│-- README.md             # Dokumentasi proyek
+│-- Read.md             # Dokumentasi proyek
 
 │-- requirements.txt      # Daftar library yang dibutuhkan
 
